@@ -1,1 +1,4 @@
-ini adalah versi test1
+Tool v1.0
+Localization v0.1
+
+First Release
