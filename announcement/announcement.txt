@@ -1,4 +1,11 @@
-Tool v1.0
-Localization v0.1
+Update!!!
 
-First Release
+Tool v1.0
+Localization v0.2
+
+Changelog:
+1.Pergantian semua kata pesona promina (saya&anda)
+menjadi aku & kamu
+2.Menambahkan beberapa teks yang belum di terjemahkan
+
+Silahkan unduh di tab setting-update localization
